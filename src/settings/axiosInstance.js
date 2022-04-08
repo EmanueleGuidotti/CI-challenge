@@ -11,7 +11,7 @@ axiosApiInstance.interceptors.request.use(
       ...config,
       headers: {
         ...config.headers,
-        Authorization: `Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NGI4ODc1OWU1NWJiYzA4ODE3NjI2YjdhOTI3NGQxZSIsInN1YiI6IjYyNDgzNTY0MTVhNGExMDA2Mzc4M2IzOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.CwtlAKr7NC3CqMspSAQf2irHS5vY48zMoYsNVdTdADo`,
+        Authorization: `Bearer ${process.env.TOKEN}`,
         Accept: "application/json",
         "Content-Type": config.headers.contentType ?? "application/json",
       },
