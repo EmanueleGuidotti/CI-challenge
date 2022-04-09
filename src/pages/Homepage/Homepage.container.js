@@ -4,4 +4,4 @@ const HomepageContainer = () => {
   return <HomepageComponent />;
 };
 
-export default HomepageContainer;
+export { HomepageContainer };

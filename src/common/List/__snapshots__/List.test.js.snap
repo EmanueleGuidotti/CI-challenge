@@ -85,7 +85,9 @@ Array [
       >
         2022-03-30
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Sonic the Hedgehog 2
       </h3>
       <p>
@@ -116,7 +118,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad129338156831100"
+              id="starGrad558614161106044"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -478,7 +480,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad129338156831100')",
+                  "fill": "url('#starGrad558614161106044')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -655,7 +657,9 @@ Array [
       >
         2021-12-15
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Spider-Man: No Way Home
       </h3>
       <p>
@@ -686,7 +690,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad637898085698952"
+              id="starGrad634553060066095"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -1088,7 +1092,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad637898085698952')",
+                  "fill": "url('#starGrad634553060066095')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -1225,7 +1229,9 @@ Array [
       >
         2022-02-03
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Moonfall
       </h3>
       <p>
@@ -1256,7 +1262,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad414149273341373"
+              id="starGrad958502631669465"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -1578,7 +1584,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad414149273341373')",
+                  "fill": "url('#starGrad958502631669465')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -1795,7 +1801,9 @@ Array [
       >
         2022-03-01
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Turning Red
       </h3>
       <p>
@@ -1826,7 +1834,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad161861285638674"
+              id="starGrad367043857878811"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -2188,7 +2196,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad161861285638674')",
+                  "fill": "url('#starGrad367043857878811')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -2365,7 +2373,9 @@ Array [
       >
         2022-03-11
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         The Adam Project
       </h3>
       <p>
@@ -2396,7 +2406,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad608077627026049"
+              id="starGrad677242162537496"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -2935,7 +2945,9 @@ Array [
       >
         2022-03-18
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Black Crab
       </h3>
       <p>
@@ -2966,7 +2978,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad634063370796689"
+              id="starGrad023188586010289"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -3288,7 +3300,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad634063370796689')",
+                  "fill": "url('#starGrad023188586010289')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -3505,7 +3517,9 @@ Array [
       >
         2021-11-24
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Encanto
       </h3>
       <p>
@@ -3536,7 +3550,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad039361739488435"
+              id="starGrad743556033314161"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -3898,7 +3912,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad039361739488435')",
+                  "fill": "url('#starGrad743556033314161')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -4075,7 +4089,9 @@ Array [
       >
         2022-03-01
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         The Batman
       </h3>
       <p>
@@ -4106,7 +4122,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad919410498398626"
+              id="starGrad823939491696257"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -4468,7 +4484,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad919410498398626')",
+                  "fill": "url('#starGrad823939491696257')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -4645,7 +4661,9 @@ Array [
       >
         2022-02-10
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Blacklight
       </h3>
       <p>
@@ -4676,7 +4694,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad287319977186351"
+              id="starGrad545866239368190"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -4998,7 +5016,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad287319977186351')",
+                  "fill": "url('#starGrad545866239368190')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -5215,7 +5233,9 @@ Array [
       >
         2022-02-25
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         No Exit
       </h3>
       <p>
@@ -5246,7 +5266,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad262384519898215"
+              id="starGrad747802960745491"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -5568,7 +5588,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad262384519898215')",
+                  "fill": "url('#starGrad747802960745491')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -5785,7 +5805,9 @@ Array [
       >
         2022-01-28
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         The Grandmother
       </h3>
       <p>
@@ -5816,7 +5838,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad930907594464970"
+              id="starGrad754146690368057"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -6138,7 +6160,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad930907594464970')",
+                  "fill": "url('#starGrad754146690368057')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -6355,7 +6377,9 @@ Array [
       >
         2021-08-11
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Pil's Adventures
       </h3>
       <p>
@@ -6386,7 +6410,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad491241552237647"
+              id="starGrad025986370093902"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -6708,7 +6732,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad491241552237647')",
+                  "fill": "url('#starGrad025986370093902')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -6925,7 +6949,9 @@ Array [
       >
         2021-11-04
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Red Notice
       </h3>
       <p>
@@ -6956,7 +6982,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad915970739880686"
+              id="starGrad792224294228836"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -7278,7 +7304,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad915970739880686')",
+                  "fill": "url('#starGrad792224294228836')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -7493,7 +7519,9 @@ Array [
       <p
         className="releaseDate"
       />
-      <h3>
+      <h3
+        role="heading"
+      >
         Sonic the Hedgehog 3
       </h3>
       <p>
@@ -7524,7 +7552,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad880141790461013"
+              id="starGrad880343339039347"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -8063,7 +8091,9 @@ Array [
       >
         2020-02-12
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Sonic the Hedgehog
       </h3>
       <p>
@@ -8094,7 +8124,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad763813946695763"
+              id="starGrad160576702347524"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -8456,7 +8486,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad763813946695763')",
+                  "fill": "url('#starGrad160576702347524')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -8633,7 +8663,9 @@ Array [
       >
         2022-01-13
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Gold
       </h3>
       <p>
@@ -8664,7 +8696,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad885681599563452"
+              id="starGrad410787538357192"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -8986,7 +9018,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad885681599563452')",
+                  "fill": "url('#starGrad410787538357192')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -9203,7 +9235,9 @@ Array [
       >
         2022-03-30
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Morbius
       </h3>
       <p>
@@ -9234,7 +9268,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad687719889558491"
+              id="starGrad787251655819335"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -9516,7 +9550,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad687719889558491')",
+                  "fill": "url('#starGrad787251655819335')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -9773,7 +9807,9 @@ Array [
       >
         2022-02-25
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Desperate Riders
       </h3>
       <p>
@@ -9804,7 +9840,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad750918337403000"
+              id="starGrad271103131481823"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -10343,7 +10379,9 @@ Array [
       >
         2022-01-28
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         The Ice Age Adventures of Buck Wild
       </h3>
       <p>
@@ -10374,7 +10412,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad936041429438938"
+              id="starGrad928182885726432"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -10696,7 +10734,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad936041429438938')",
+                  "fill": "url('#starGrad928182885726432')",
                   "transition": "fill .2s ease-in-out",
                 }
               }
@@ -10913,7 +10951,9 @@ Array [
       >
         2022-02-10
       </p>
-      <h3>
+      <h3
+        role="heading"
+      >
         Kimi
       </h3>
       <p>
@@ -10944,7 +10984,7 @@ Array [
         >
           <defs>
             <linearGradient
-              id="starGrad271237899992295"
+              id="starGrad389085864359138"
               x1="0%"
               x2="100%"
               y1="0%"
@@ -11266,7 +11306,7 @@ Array [
               d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
               style={
                 Object {
-                  "fill": "url('#starGrad271237899992295')",
+                  "fill": "url('#starGrad389085864359138')",
                   "transition": "fill .2s ease-in-out",
                 }
               }

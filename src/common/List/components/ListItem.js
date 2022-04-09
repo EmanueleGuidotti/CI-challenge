@@ -16,7 +16,7 @@ const ListItem = ({
       </Col>
       <Col span={12} order={2}>
         <p className={styles.releaseDate}>{release_date}</p>
-        <h3>{title}</h3>
+        <h3 role="heading">{title}</h3>
         <p>{overview}</p>
         <StarRatings
           numberOfStars={10}

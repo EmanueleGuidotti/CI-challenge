@@ -10,12 +10,13 @@ export const moviesApi = createApi({
         url: `/movie/popular`,
       }),
     }),
-    getMovieById: builder.query({
-      query: (id) => ({
-        url: `/movie/${id}`,
+    searchMovieByQuery: builder.query({
+      query: (query) => ({
+        url: `/search/movie?query=${query}`,
       }),
     }),
   }),
 });
 
-export const { useGetPopularMoviesQuery, useGetMovieByIdQuery } = moviesApi;
+export const { useGetPopularMoviesQuery, useSearchMovieByQueryQuery } =
+  moviesApi;
