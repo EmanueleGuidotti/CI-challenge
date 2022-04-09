@@ -11,7 +11,7 @@ axiosApiInstance.interceptors.request.use(
       ...config,
       headers: {
         ...config.headers,
-        Authorization: `Bearer ${process.env.TOKEN}`,
+        Authorization: `Bearer ${process.env.REACT_APP_TOKEN}`,
         Accept: "application/json",
         "Content-Type": config.headers.contentType ?? "application/json",
       },
