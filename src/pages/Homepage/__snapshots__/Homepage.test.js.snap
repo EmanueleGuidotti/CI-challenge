@@ -5,7 +5,7 @@ exports[`Render Homepage loading status properly 1`] = `
   className="homePageContainer"
 >
   <h1>
-    Home Page
+    My Movies App
   </h1>
   <input
     className="ant-input"
@@ -33,7 +33,7 @@ Object {
         class="homePageContainer"
       >
         <h1>
-          Home Page
+          My Movies App
         </h1>
         <input
           class="ant-input"
@@ -115,7 +115,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad397777040707969"
+                    id="starGrad560916729326162"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -268,7 +268,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad397777040707969'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad560916729326162'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -385,7 +385,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad040842680902979"
+                    id="starGrad083213137801310"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -554,7 +554,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad040842680902979'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad083213137801310'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -655,7 +655,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad839503374550272"
+                    id="starGrad894656240876802"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -792,7 +792,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad839503374550272'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad894656240876802'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -925,7 +925,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad392843928210127"
+                    id="starGrad398020217954773"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -1078,7 +1078,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad392843928210127'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad398020217954773'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -1195,7 +1195,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad679292812766342"
+                    id="starGrad927265337460237"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -1465,7 +1465,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad445066537985985"
+                    id="starGrad408655509396370"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -1602,7 +1602,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad445066537985985'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad408655509396370'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -1735,7 +1735,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad435293758009295"
+                    id="starGrad347877486119346"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -1888,7 +1888,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad435293758009295'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad347877486119346'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -2005,7 +2005,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad926150435393926"
+                    id="starGrad314300225069419"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -2158,7 +2158,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad926150435393926'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad314300225069419'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -2275,7 +2275,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad217873419492356"
+                    id="starGrad139513512514281"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -2412,7 +2412,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad217873419492356'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad139513512514281'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -2545,7 +2545,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad011464696467615"
+                    id="starGrad254821801090508"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -2682,7 +2682,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad011464696467615'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad254821801090508'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -2815,7 +2815,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad220308906078375"
+                    id="starGrad175037539688418"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -2952,7 +2952,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad220308906078375'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad175037539688418'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -3085,7 +3085,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad894416793455217"
+                    id="starGrad311961070721468"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -3222,7 +3222,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad894416793455217'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad311961070721468'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -3355,7 +3355,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad250079466312051"
+                    id="starGrad643159482493081"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -3492,7 +3492,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad250079466312051'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad643159482493081'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -3623,7 +3623,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad199433993524535"
+                    id="starGrad947807800885659"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -3893,7 +3893,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad421275984880890"
+                    id="starGrad567545268362885"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -4046,7 +4046,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad421275984880890'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad567545268362885'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -4163,7 +4163,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad777537301113898"
+                    id="starGrad013672277522536"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -4300,7 +4300,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad777537301113898'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad013672277522536'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -4433,7 +4433,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad705463897577029"
+                    id="starGrad251966812782595"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -4554,7 +4554,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad705463897577029'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad251966812782595'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -4703,7 +4703,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad010107331450357"
+                    id="starGrad447520636750515"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -4973,7 +4973,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad083152489398433"
+                    id="starGrad840752827549019"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -5110,7 +5110,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad083152489398433'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad840752827549019'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -5243,7 +5243,7 @@ Object {
               >
                 <defs>
                   <lineargradient
-                    id="starGrad007985959681338"
+                    id="starGrad855205237526758"
                     x1="0%"
                     x2="100%"
                     y1="0%"
@@ -5380,7 +5380,7 @@ Object {
                   <path
                     class="star"
                     d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                    style="fill: url('#starGrad007985959681338'); transition: fill .2s ease-in-out;"
+                    style="fill: url('#starGrad855205237526758'); transition: fill .2s ease-in-out;"
                   />
                 </svg>
               </div>
@@ -5447,7 +5447,7 @@ Object {
       class="homePageContainer"
     >
       <h1>
-        Home Page
+        My Movies App
       </h1>
       <input
         class="ant-input"
@@ -5529,7 +5529,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad397777040707969"
+                  id="starGrad560916729326162"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -5682,7 +5682,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad397777040707969'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad560916729326162'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -5799,7 +5799,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad040842680902979"
+                  id="starGrad083213137801310"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -5968,7 +5968,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad040842680902979'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad083213137801310'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -6069,7 +6069,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad839503374550272"
+                  id="starGrad894656240876802"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -6206,7 +6206,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad839503374550272'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad894656240876802'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -6339,7 +6339,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad392843928210127"
+                  id="starGrad398020217954773"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -6492,7 +6492,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad392843928210127'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad398020217954773'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -6609,7 +6609,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad679292812766342"
+                  id="starGrad927265337460237"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -6879,7 +6879,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad445066537985985"
+                  id="starGrad408655509396370"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -7016,7 +7016,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad445066537985985'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad408655509396370'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -7149,7 +7149,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad435293758009295"
+                  id="starGrad347877486119346"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -7302,7 +7302,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad435293758009295'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad347877486119346'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -7419,7 +7419,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad926150435393926"
+                  id="starGrad314300225069419"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -7572,7 +7572,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad926150435393926'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad314300225069419'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -7689,7 +7689,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad217873419492356"
+                  id="starGrad139513512514281"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -7826,7 +7826,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad217873419492356'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad139513512514281'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -7959,7 +7959,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad011464696467615"
+                  id="starGrad254821801090508"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -8096,7 +8096,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad011464696467615'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad254821801090508'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -8229,7 +8229,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad220308906078375"
+                  id="starGrad175037539688418"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -8366,7 +8366,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad220308906078375'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad175037539688418'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -8499,7 +8499,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad894416793455217"
+                  id="starGrad311961070721468"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -8636,7 +8636,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad894416793455217'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad311961070721468'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -8769,7 +8769,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad250079466312051"
+                  id="starGrad643159482493081"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -8906,7 +8906,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad250079466312051'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad643159482493081'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -9037,7 +9037,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad199433993524535"
+                  id="starGrad947807800885659"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -9307,7 +9307,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad421275984880890"
+                  id="starGrad567545268362885"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -9460,7 +9460,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad421275984880890'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad567545268362885'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -9577,7 +9577,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad777537301113898"
+                  id="starGrad013672277522536"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -9714,7 +9714,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad777537301113898'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad013672277522536'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -9847,7 +9847,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad705463897577029"
+                  id="starGrad251966812782595"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -9968,7 +9968,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad705463897577029'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad251966812782595'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -10117,7 +10117,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad010107331450357"
+                  id="starGrad447520636750515"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -10387,7 +10387,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad083152489398433"
+                  id="starGrad840752827549019"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -10524,7 +10524,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad083152489398433'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad840752827549019'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
@@ -10657,7 +10657,7 @@ Object {
             >
               <defs>
                 <lineargradient
-                  id="starGrad007985959681338"
+                  id="starGrad855205237526758"
                   x1="0%"
                   x2="100%"
                   y1="0%"
@@ -10794,7 +10794,7 @@ Object {
                 <path
                   class="star"
                   d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
-                  style="fill: url('#starGrad007985959681338'); transition: fill .2s ease-in-out;"
+                  style="fill: url('#starGrad855205237526758'); transition: fill .2s ease-in-out;"
                 />
               </svg>
             </div>
