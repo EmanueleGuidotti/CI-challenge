@@ -22,7 +22,6 @@ const HomepageComponent = () => {
 
   useEffect(() => {
     if (!searchedTherm && !isLoading && latestMoviesData?.data.results) {
-      console.log(latestMoviesData.data.results);
       setMoviesList(latestMoviesData.data.results);
     }
   }, [latestMoviesData, searchedTherm]);
@@ -54,7 +53,6 @@ const HomepageComponent = () => {
       <h1>My Movies App</h1>
       <Searchbar
         onKeyUp={(therm) => {
-          console.log(searchedTherm);
           setSearchedTherm(therm);
           setPage(1);
         }}
