@@ -10,13 +10,13 @@ export const moviesApi = createApi({
   baseQuery: axiosBaseQuery,
   endpoints: (builder) => ({
     getPopularMovies: builder.query({
-      query: () => ({
-        url: `/movie/popular`,
+      query: (page) => ({
+        url: `/movie/popular?page=${page}`,
       }),
     }),
     searchMovieByQuery: builder.query({
-      query: (query) => ({
-        url: `/search/movie?query=${query}`,
+      query: ({ searchedTherm, page }) => ({
+        url: `/search/movie?query=${searchedTherm}&page=${page}`,
       }),
     }),
   }),
