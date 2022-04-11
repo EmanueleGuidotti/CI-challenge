@@ -11,7 +11,9 @@ const HomepageComponent = () => {
   const [searchedTherm, setSearchedTherm] = useState("");
   const [page, setPage] = useState(1);
   const [moviesList, setMoviesList] = useState([]);
-  const { data: latestMoviesData, isLoading } = useGetPopularMoviesQuery(page);
+  const { data: latestMoviesData, isLoading } = useGetPopularMoviesQuery(page, {
+    skip: searchedTherm !== "",
+  });
   const { data: searchedResultData, isLoading: isLoadingSearch } =
     useSearchMovieByQueryQuery(
       { searchedTherm, page },
@@ -19,17 +21,14 @@ const HomepageComponent = () => {
     );
 
   useEffect(() => {
-    if (!searchedTherm && !isLoading && latestMoviesData?.data.results.length) {
+    if (!searchedTherm && !isLoading && latestMoviesData?.data.results) {
+      console.log(latestMoviesData.data.results);
       setMoviesList(latestMoviesData.data.results);
     }
-  }, [latestMoviesData]);
+  }, [latestMoviesData, searchedTherm]);
 
   useEffect(() => {
-    if (
-      searchedResultData?.data.results.length &&
-      !isLoadingSearch &&
-      searchedTherm
-    ) {
+    if (searchedResultData?.data.results && !isLoadingSearch && searchedTherm) {
       setMoviesList(searchedResultData.data.results);
     }
   }, [searchedTherm, searchedResultData]);
@@ -47,7 +46,6 @@ const HomepageComponent = () => {
   }, [maxPages]);
 
   const loadLess = useCallback(() => {
-    console.log("load less");
     if (page > 1) setPage((prevData) => prevData - 1);
   }, [page]);
 
@@ -56,6 +54,7 @@ const HomepageComponent = () => {
       <h1>My Movies App</h1>
       <Searchbar
         onKeyUp={(therm) => {
+          console.log(searchedTherm);
           setSearchedTherm(therm);
           setPage(1);
         }}
